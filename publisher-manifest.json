@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f1e017f8de2065322c9eb4ad",
+  "owner": "bunoobu",
+  "repo": "page-898c423c2557c423ca7ea540",
+  "title": "平民机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "898c423c2557c423ca7ea540",
+      "a": "平民机场",
+      "b": "稳定全球clash加速器",
+      "entity": "平民机场",
+      "brand": "平民机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "69c134dfb52ae3b60ddbe23655872d5f3688ca791661482d6c4c400884504865",
+      "content": {
+        "primary_entity": "平民机场",
+        "keyword1": "平民机场",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash、Shadowrocket、V2rayN 等常用客户端可按系统选择。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好设备与流量档位，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "从合适档位开始",
+          "AI_DESCRIPTION": "，围绕不同设备与使用强度提供基础版、旗舰版和团队版三档订阅，月付从 ¥15 起，按年付有优惠。基础版适合手机与平板轻度使用，旗舰版增加 IPLC 专线游戏加速与全节点流媒体解锁，团队版面向多设备与高带宽场景。购买后按客户端文档导入订阅即可连接。",
+          "AI_FEATURES_INTRO": "从设备数量、流量大小和订阅周期三个角度挑选。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB 流量与 3 台设备，旗舰版月付 ¥35 升至 300GB 与 5 台设备，团队版月付 ¥85 提供 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑和路由器共用一份订阅时，先统计常用设备数量，再对照各档允许的同时在线台数做取舍。",
+          "AI_FEATURE_TEXT_3": "短周期适合临时使用，长期使用按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量与价格选",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，大致分三步。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "平民机场提供多档位订阅，覆盖从手机、平板到多设备团队的不同需求。基础版适合轻度浏览，旗舰版增加专线游戏加速与流媒体解锁，团队版面向高带宽与大量设备场景。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选",
+          "AI_HIGHLIGHT_1": "三档套餐清晰，月付低至 ¥15。",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速。",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线。",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台；年付分别为 ¥150、¥350、¥850，可按预算与用量对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先估算每月流量、常用设备数量和是否需要流媒体或游戏加速，据此锁定一档套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备数量、客户端类型和线路的要求，确认当前设备是否满足。",
+          "AI_STEP_TEXT_3": "购买后依照对应客户端文档导入订阅链接，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "确认使用需求",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "平民机场订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持在套餐周期内升级，补差价即可切换至更高版本，流量和设备数按新套餐生效。",
+          "AI_FAQ_QUESTION_2": "一台设备可以多客户端登录吗？",
+          "AI_FAQ_ANSWER_2": "同一时间在线设备数受套餐限制，建议按实际设备数量选择对应版本，避免超限。",
+          "AI_FAQ_QUESTION_3": "年付套餐如何计算费用？",
+          "AI_FAQ_ANSWER_3": "基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算。",
+          "AI_FAQ_QUESTION_4": "流量用完后可以继续使用吗？",
+          "AI_FAQ_ANSWER_4": "套餐内流量用尽后，可升级套餐或购买流量包继续使用，具体以订阅页面说明为准。",
+          "AI_FAQ_QUESTION_5": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_5": "支持主流订阅客户端，不同系统适配的客户端有所差异，请按设备选择并参考配置文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhikaowang365.com",
+    "host": "zhikaowang365.com"
+  },
+  "file_hashes": {
+    "index.html": "b0cb24583ee286f2b8b26b6d9dc53e9d729b8c3517b7bdd463cbe226d729c6f1",
+    "sitemap.xml": "329f866e147836f6646aedf5010f568a04d0b086236ace47d098d3a12a8ad67e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "31d97a612013572f0cf0e7c69784844fffbb182819199ae2a842a681d7973d48",
+    "robots.txt": "04efe76c088a3ae487475bbf45b707b019a00fad9d961f9d6d478d68a694a725",
+    "d1184f951f7d875e8e5b94185a2d4e9f.txt": "ab0ac363a97e3f589de0b71d64af74e4a609968bf7323ca1e70a83d51c09057d"
+  },
+  "revision": "c29f88d26a7ce67666095580a3decefc7d3189831ec1aa9d6a7283b18986f907"
+}
